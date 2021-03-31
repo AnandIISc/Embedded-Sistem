@@ -1,2 +1,2 @@
-# Embedded-Sistem
-First Assignment
+# Embedded-System
+First Assignment 
