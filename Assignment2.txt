@@ -1,0 +1,16 @@
+Title : Assignment 2 Linked List Demonstration in C programming language 
+Subject : E3 257 ESE(2021)
+
+Submitted by : Anand Kumar 
+Department: CPDM , IISc
+Course: M.tech Smart Manufacturing 
+Date: 25-03-2021
+
+
+The Submission folder contains 
+1. Assignment2.h
+	--> Header file which include function and Structure of both the Node and The Supernode 
+2. Assignment2.c
+	--> Contain all the functinality  	
+3. Assignment2.out 
+	-->  Running enviroment for programm
